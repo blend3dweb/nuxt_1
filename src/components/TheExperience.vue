@@ -36,4 +36,7 @@ body {
   width: 100%;
   background-color: #000;
 }
+::-webkit-scrollbar {
+  width: 0;
+}
 </style>
